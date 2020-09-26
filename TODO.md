@@ -1,0 +1,9 @@
+- read `the pragmatic programmer`
+- note about using verb as noun
+  - `Parser` as interface vs `Parser` as function type
+- read `the REST paper` -- about API design
+- learn object oriented design patterns
+  - use only function, ADT and interface to solve the problems
+- prosa/module-system.md
+- move dialogos to vercel
+- improve plaintext usability

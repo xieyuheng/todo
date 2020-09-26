@@ -1,0 +1,18 @@
+- (ep 01) Strategy Pattern
+- (ep 02) Observer Pattern
+- (ep 03) Decorator Pattern
+- (ep 04) Factory Method Pattern
+- (ep 05) Abstract Factory Pattern
+- (ep 06) Singleton Pattern
+- (ep 07) Command Pattern
+- (ep 08) Adapter Pattern
+- (ep 09) Facade Pattern
+- (ep 10) Proxy Pattern
+- (ep 11) Bridge Pattern
+- (ep 12) Structural Patterns (comparison)
+- (ep 13) Template Method Pattern
+- (ep 14) Composite Pattern
+- (ep 15) Difference Between Composite and Decorator Pattern
+- (ep 16) Iterator Pattern
+- (ep 17) State Pattern
+- (ep 18) Null Object Pattern
