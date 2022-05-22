@@ -1,6 +1,0 @@
-- typed-tagless-final-interpreters--oleg-kiselyov.pdf
-  - 这个论文里，为什么说第二章的那个语言是 first-order language？
-  - 与之相对的 lambda calculus 为什么不是 first-order language？
-  - 参考：
-    - https://en.wikipedia.org/wiki/First-order_logic
-    - https://plato.stanford.edu/entries/modeltheory-fo/
