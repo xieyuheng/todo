@@ -1,5 +1,36 @@
+we need to try nestjs
+
+minipedia -- wikipedia clone in laravel
+
+- why oop and message sending syntax is needed?
+  - typeclass do not need message sending syntax
+  - try to use current implementation of implicit to implement typeclass
+
+- Jez Humble, “CD sounds great, but can’t work here” https://youtu.be/IvWr29afDF8
+- Jeff Patton “User Story Mapping” https://youtu.be/AzBuohuOU6g
+- Michael Nygard "Uncoupling" https://youtu.be/mAw4ygX1c-4
+
+# learn
+
+- aliability, equity, asset
+  augusto graziani -- the monetary theory of production
+  marx and contradiction
+
+- Read 'Ingalls - Design Principles Behind Smalltalk.pdf'
+- Read Kent Beck's thinkies
+
+- learn about how to use redux
+
 - finish: https://laracasts.com/series/learn-vue-3-step-by-step
 - finish alpinejs component course: https://alpinejs.dev/components
+
+# maybe
+
+- api.readonly.link -- `readonlylink-api` extract backend api from
+- test.readonly.link -- migrate `readonlylink` to nuxt
+- api.readonly.link support different app -- be close to backend as a service
+- pomodoro.xieyuheng.com -- use api.readonly.link for login
+- mimor.app -- use api.readonly.link for login
 
 # laravel
 
