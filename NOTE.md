@@ -1,3 +1,17 @@
+http://www.digitalpeirce.fee.unicamp.br/lane/p-trilan.htm
+https://plato.stanford.edu/entries/peirce-logic/#BivaTriaLogi
+
+cicada filament
+
+forth
+
+cicada fīlum
+
+
+sanity
+contentful
+strapi
+
 we need to try nestjs
 
 minipedia -- wikipedia clone in laravel
