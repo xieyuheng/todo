@@ -1,3 +1,8 @@
+Beware of he who would deny you access to information,
+for in his heart he dreams himself your master.
+
+-- Pravin Lal
+
 http://www.digitalpeirce.fee.unicamp.br/lane/p-trilan.htm
 https://plato.stanford.edu/entries/peirce-logic/#BivaTriaLogi
 
