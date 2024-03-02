@@ -1,3 +1,10 @@
+[john-conway] regular-algebra-and-finite-machines.djvu
+
+learn more about UML state machine
+
+- https://www.uml-diagrams.org/state-machine-diagrams.html
+- https://www.uml-diagrams.org
+
 Beware of he who would deny you access to information,
 for in his heart he dreams himself your master.
 
@@ -11,7 +18,6 @@ cicada filament
 forth
 
 cicada fīlum
-
 
 sanity
 contentful
