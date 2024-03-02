@@ -11,8 +11,3 @@
   explicit substitution，
   cell comeplx 的 higher algerbra，
   等等。
-
-[xvm] 可扩展的 vm。
-
-- 用 c 实现，用 c 扩展。
-- 实用 tag value，带有 GC。
