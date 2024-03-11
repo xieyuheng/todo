@@ -10,6 +10,15 @@
   因此可能不需要支持匿名的函数 lambda（不用 closure），
   只使用在模块中定义好了的有名字的函数即可。
 
+- 为了在 JS 中使用所生成的 JSON AST 可以直 evaluate grammar 的代码。
+  - 作为 AST 的 Exp 和 Stmt 要写两遍，一次在 grammar 中一次在 JS 中。
+  - grammar 所返回的 JSON 是不带类型的，JS 必须直接信任或额外效验。
+
+[x-puzzle] expression-based puzzle games
+
+- 把 to mock a mockingbird 做成一个游戏。
+- 支持纯文字版本，因此需要 grammar
+
 [cicada] 一个带有 dependent type 的实用语言。
 
 - 编译到 xvm。
