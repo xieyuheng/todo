@@ -1,20 +1,4 @@
-# explicit-substitution
-
-> cicada 的设计目的是为了探索语言设计，
-> 而 clique 就是探索语言的例子，
-> 用想象用的 cicada-lang 重写 clique 中的探索试试。
-
-[explicit-substitution] lookup
-[explicit-substitution] doAp
-[explicit-substitution] Mod
-[explicit-substitution] note about using JS style import and export
-
-# clique
-
-[clique] 增加辅助表达式。
-
-- 通过增加辅助表达式 `(lazy)` 实现 lazy eval。
-- 支持直接递归函数与相互递归函数，不能判断等价的地方就不判断。
+尝试把多元关系转化为三元组（datomic）-- 关系的代数（peirce）
 
 # pattern
 
@@ -110,6 +94,15 @@
 
   - 如果让 GC 可选，也许还可以在这里探索 linear type，
     但是不应该一次探索太多。
+
+# typed logic programming
+
+simply typed logic programming
+
+dependently typed logic programming
+
+- need equivalence between relations.
+- if type system is logic, what is the logic of logic?
 
 # geometer
 
