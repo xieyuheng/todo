@@ -1,4 +1,8 @@
-尝试把多元关系转化为三元组（datomic）-- 关系的代数（peirce）
+# logic programming
+
+[logic programming] 尝试把多元关系转化为三元组（datomic）
+
+- 关系的代数（peirce）
 
 # pattern
 
@@ -94,15 +98,6 @@
 
   - 如果让 GC 可选，也许还可以在这里探索 linear type，
     但是不应该一次探索太多。
-
-# typed logic programming
-
-simply typed logic programming
-
-dependently typed logic programming
-
-- need equivalence between relations.
-- if type system is logic, what is the logic of logic?
 
 # geometer
 
