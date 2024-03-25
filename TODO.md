@@ -1,4 +1,10 @@
-# logic programming
+chu 楚 should be another project name -- maybe to replace geometer
+
+# mugda (clique)
+
+move mugda to clique
+
+# logic programming (clique)
 
 [logic programming] 尝试把多元关系转化为三元组（datomic）
 
