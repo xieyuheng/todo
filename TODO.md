@@ -1,5 +1,3 @@
-chu 楚 should be another project name -- maybe to replace geometer
-
 # mugda (clique)
 
 move mugda to clique
@@ -124,3 +122,7 @@ move mugda to clique
 
 - 把 to mock a mockingbird 做成一个游戏。
 - 支持纯文字版本，因此需要 grammar
+
+# chu
+
+chu 楚 should be another project name -- maybe to replace geometer
