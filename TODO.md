@@ -2,7 +2,28 @@
 
 move mugda to clique
 
+# pie (clique)
+
+pie with explicit substitution.
+
+- 当 everything is expression 时，
+  inference rule 的表达会有什么变化？
+
+  - 好像是所有论文中的 inference rule 都只会用 Exp，
+    而不会用 Value 和 closure。
+
+# typed logic programming (clique)
+
+simply typed logic programming
+
+dependently typed logic programming
+
+- need equivalence between relations.
+- if type system is logic, what is the logic of logic?
+
 # logic programming (clique)
+
+datomic-like datalog in clique
 
 [logic programming] 尝试把多元关系转化为三元组（datomic）
 
@@ -56,12 +77,7 @@ move mugda to clique
   还需要合并 Exp 与 Core，
   经过 elab 所获得的 Core 也应该被囊括在 Exp 中。
 
-- 项目叫 cicada-es 代表 explicit substitution，
-  需要翻新 partech 让语法解析成为稳定的舒适的存在。
-
-  - 或者先实现一个 es 版本的 pie 或 tartlet。
-
-  如何把 data constructor 也处理为 Exp 而不是 Value？
+- 如何把 data constructor 也处理为 Exp 而不是 Value？
   应该用 `T.C` 还是 `T::C` 作为构造数据的语法？
 
   - 我们还是需要 `T::C` 的，
@@ -126,3 +142,15 @@ move mugda to clique
 # chu
 
 chu 楚 should be another project name -- maybe to replace geometer
+
+# cicada syntax
+
+fix naming convention for old examples in "the little typer"
+
+[problem] does syntax for recursive prove (recursive function)
+need motive like the `induction` keyword?
+
+# fidb
+
+Should NOT just use file as config, should use code.
+i.e. should be a library instead of db app.
