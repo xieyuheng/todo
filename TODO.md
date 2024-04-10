@@ -1,37 +1,16 @@
+# dance with expressions
+
+不带 Value 的解释器，也许是 cicada 成功的关键，我必须认真探索它。
+
+- dance with expressions
+
+每次实现到一个东西的最后阶段，我都会变得很慢，我必须克服这一点。
+
+- 比如 inet，我现在又忘了。也许可以通过不断的总结和联系来让实现变平凡。
+
 # chimera
 
 [chimera] 完成更多的 clause-and-effect 中的例子。
-
-# mugda (clique)
-
-move mugda to clique
-
-# pie (clique)
-
-pie with explicit substitution.
-
-- 当 everything is expression 时，
-  inference rule 的表达会有什么变化？
-
-  - 好像是所有论文中的 inference rule 都只会用 Exp，
-    而不会用 Value 和 closure。
-
-# typed logic programming (clique)
-
-simply typed logic programming
-
-dependently typed logic programming
-
-- need equivalence between relations.
-- if type system is logic, what is the logic of logic?
-
-# logic programming (clique)
-
-datomic-like datalog in clique
-
-[logic programming] 尝试把多元关系转化为三元组（datomic）
-
-- 关系的代数（peirce）
 
 # pattern
 
