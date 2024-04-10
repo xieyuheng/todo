@@ -1,3 +1,7 @@
+# chimera
+
+[chimera] 完成更多的 clause-and-effect 中的例子。
+
 # mugda (clique)
 
 move mugda to clique
