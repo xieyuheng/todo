@@ -1,40 +1,6 @@
-# dance with expressions
-
-不带 Value 的解释器，也许是 cicada 成功的关键，我必须认真探索它。
-
-- dance with expressions
-
-每次实现到一个东西的最后阶段，我都会变得很慢，我必须克服这一点。
-
-- 比如 inet，我现在又忘了。也许可以通过不断的总结和联系来让实现变平凡。
-
 # chimera
 
 [chimera] 完成更多的 clause-and-effect 中的例子。
-
-# pattern
-
-[pattern] 读 Christopher Alexander 的书。
-
-# grammar
-
-[grammar] 设计一个 DSL 专门用来描述语法 + 生成语法解析器。
-
-- 为了方便迁移到 C，应该用 lambda machine 来实现，而不是用解释器来实现。
-
-- 在最开始的时候，我们还没有语法解析器，
-  所以这个 DSL 没有语法解析器可用，
-  所以我们可以把这个 DSL 的语法设计为 sexp-based。
-
-- 语言只有最简单的功能，
-  其抽象能力只为支持编写 grammar，
-  而不为一般的编程。
-  因此可能不需要支持匿名的函数 lambda（不用 closure），
-  只使用在模块中定义好了的有名字的函数即可。
-
-- 为了在 JS 中使用所生成的 JSON AST 可以直 evaluate grammar 的代码。
-  - 作为 AST 的 Exp 和 Stmt 要写两遍，一次在 grammar 中一次在 JS 中。
-  - grammar 所返回的 JSON 是不带类型的，JS 必须直接信任或额外效验。
 
 # cicada
 
@@ -101,6 +67,10 @@
 
   - 如果让 GC 可选，也许还可以在这里探索 linear type，
     但是不应该一次探索太多。
+
+# pattern
+
+[pattern] 读 Christopher Alexander 的书。
 
 # geometer
 
