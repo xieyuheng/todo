@@ -14,6 +14,13 @@
 - 它们有什么区别？
 - 为什么我们需要 `Constraint` 而不能用 `Relation` 实现全部？
 
+[chimera] finite domain 在于每个变量真的带有一个 domain（有限集合），
+这个有限集合显然可以被代替为 区间 之类的量，
+也许任意的 lattice 都可以？
+
+- 可以为这个算法设计一个语言：https://en.wikipedia.org/wiki/AC-3_algorithm
+- 注意，SAT 问题中 domain 是有限的，并且只有两个值。
+
 # cicada
 
 [cicada] 一个带有 dependent type 的实用语言。
