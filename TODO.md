@@ -1,3 +1,11 @@
+# modal
+
+[modal] the little schemer in modal
+
+[modal] modal.js -- implement modal in js
+
+- need hand written parser -- thus need to learn finite automata before
+
 # chimera
 
 [chimera] 总结 chimera 中已有的功能（用中文）。
@@ -26,6 +34,8 @@
 - 注意，SAT 问题中 domain 是有限的，并且只有两个值。
 - 与 propagator model 类似， propagator model 中每个变量都是一个 lattice。
 - https://en.wikipedia.org/wiki/Local_consistency
+
+[chimera] 取消 occur-check 并且能够打印循环的 value。
 
 # cicada
 
@@ -133,3 +143,10 @@ need motive like the `induction` keyword?
 
 Should NOT just use file as config, should use code.
 i.e. should be a library instead of db app.
+
+# note
+
+- call/cc vs let-cc
+
+  let-cc 之所以比 call/cc 更好理解，
+  是因为去除了思考这个语法时的一层间接。
