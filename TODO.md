@@ -1,5 +1,9 @@
 # chimera
 
+[chimera] 总结 chimera 中已有的功能（用中文）。
+
+[chimera] 如何在逻辑式中恢复部分的过程式 contral flow？
+
 [chimera] 完成更多的 clause-and-effect 中的例子。
 
 [chimera] 关于 logic programming 与 first-order logic 的笔记。
@@ -20,6 +24,8 @@
 
 - 可以为这个算法设计一个语言：https://en.wikipedia.org/wiki/AC-3_algorithm
 - 注意，SAT 问题中 domain 是有限的，并且只有两个值。
+- 与 propagator model 类似， propagator model 中每个变量都是一个 lattice。
+- https://en.wikipedia.org/wiki/Local_consistency
 
 # cicada
 
