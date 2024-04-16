@@ -2,6 +2,16 @@
 
 [chimera] 完成更多的 clause-and-effect 中的例子。
 
+[chimera] 关于 logic programming 与 first-order logic 的笔记。
+
+- `clause` 中的 variable 代表 `forall`。
+- `find` 代表 `exists`。
+
+[chimera] CLP 中的 `Relation` 与 `Constraint` 的语义都是集合论意义上的 relation。
+
+- 它们有什么区别？
+- 为什么我们需要 `Constraint` 而不能用 `Relation` 实现全部？
+
 # cicada
 
 [cicada] 一个带有 dependent type 的实用语言。
@@ -46,17 +56,18 @@
   注意，这个生态位是没有标准语言的，每个动态类型语言都有自己的 VM。
 
 - 功能：
+
   - 用 tagged values 并支持 GC。
   - 尾递归优化。
   - closure。
   - 用 C 写，用 C 扩展。
 
--  XVM 本身也可以是一个实用的脚本语言，这需要：
-  - 简单类型系统。
-    - 难点是需要用 C 实现。
-  - 模块系统。
-  - array 和 record。
-  - 定义 datatype。
+- XVM 本身也可以是一个实用的脚本语言，这需要：
+- 简单类型系统。
+  - 难点是需要用 C 实现。
+- 模块系统。
+- array 和 record。
+- 定义 datatype。
 
 - 放弃在这个项目中对 two level monoid-like type system 的探索。
 
