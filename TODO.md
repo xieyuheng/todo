@@ -7,6 +7,8 @@
 - `clause` 中的 variable 代表 `forall`。
 - `find` 代表 `exists`。
 
+  - https://en.wikipedia.org/wiki/Conjunctive_query
+
 [chimera] CLP 中的 `Relation` 与 `Constraint` 的语义都是集合论意义上的 relation。
 
 - 它们有什么区别？
