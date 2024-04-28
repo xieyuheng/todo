@@ -1,5 +1,3 @@
-重启 cicada
-
 # xvm
 
 [xvm] 可扩展的 VM。
@@ -30,10 +28,6 @@
 
   - 如果让 GC 可选，也许还可以在这里探索 linear type，
     但是不应该一次探索太多。
-
-# pattern
-
-[pattern] 读 Christopher Alexander 的书。
 
 # geometer
 
