@@ -1,24 +1,50 @@
-# mimor
-
-受到 kimi 启发，重新设计 mimor 使得它的 UX 更简单。
-
-- 在做新的 web app 之前首先要有一个稳定的数据层，
-  回到 fidb 项目，这次不完全以 JSON 为 config
-  来生成一个 database 的 HTTP API，
-  而是用以 fidb 为 database library，
-  在这之上手写 HTTP API。
-
-- 学习 laravel + sqlite + htmx 的 web app 方案。
-
 # 我没有时间
 
 如果放假的时间和下班时间不写自己的项目，
 上班的时候就没时间了。
 
-# 加油！
+# 了解自己
+
+快乐 -- 设计程序语言，
+想象各种语法，实现各种计算模型，
+实现各种类型系统并且与逻辑学联系起来，
+是我最大的快乐所在。
+
+# 蝉语
 
 不管是从知识积累方面，还是从设计方向方面，
 cicada 项目都已经准备好了，就差努力实现了。
+
+在 clique 中实验，然后开始 cicada。
+
+- 在 clique 中用 `assert-equal` 验证基于 `Exp` 的 definitional 等价关系。
+- 在 clique 中验证基于 `Exp` 的递归函数之间的 definitional 等价关系。
+- 在 clique 中验证基于 `Exp` 的 dependent type 类型检查器具。
+- 在实现 explicit-substitution 时避免全局的 `globalFreshen`。
+
+cicada 仍旧临时用 JS 实现，坚持 类-JS 语法。
+
+- 几乎不设计语法，完全模仿 JS 的语法。
+- {} 为 object 优化。
+- 放弃用 {} 把 block 变为 exp 的想法
+- function, case, arrow function 可以跟 {}
+  - case, arrow function
+    当需要返回单个 object 的 exp 时，
+    也模仿 JS 的语法。
+
+可以用高阶函数来做依赖注入，但是有多个参数的时候，
+顺序很难记住，想要用 record，
+但是 record 没法用 currying，
+所以 currying 应该支持 record。
+
+- 如何设计这这个功能的语法？
+  - （A）直接用一个名叫 `curryRecord` 或者 `partialApplyRecord` 的函数。
+     - 或 `curry` `prepare` `preset`
+  - （B）设计特殊的语法。
+
+XVM 作为容易实现的可扩展的编译器 target。
+
+cicada 编译到 XVM。
 
 # learner
 
@@ -46,6 +72,18 @@ cicada 项目都已经准备好了，就差努力实现了。
 
 - 学会电子电路，是理解人类神经网络的开端之一。
 
+# mimor
+
+受到 kimi 启发，重新设计 mimor 使得它的 UX 更简单。
+
+- 在做新的 web app 之前首先要有一个稳定的数据层，
+  回到 fidb 项目，这次不完全以 JSON 为 config
+  来生成一个 database 的 HTTP API，
+  而是用以 fidb 为 database library，
+  在这之上手写 HTTP API。
+
+- 学习 laravel + sqlite + htmx 的 web app 方案。
+
 # 古典
 
 我发现学习和练习引用古典名著是很有趣的学习过程，
@@ -67,21 +105,6 @@ cicada 项目都已经准备好了，就差努力实现了。
 蓬生麻中，不扶而直；白沙在涅，与之俱黑。
 
 积善成德，而神明自得，圣心备焉。
-
-# 蝉语
-
-在 clique 中实验，然后开始 cicada。
-
-- 在 clique 中用 `assert-equal` 验证基于 `Exp` 的 definitional 等价关系。
-- 在 clique 中验证基于 `Exp` 的递归函数之间的 definitional 等价关系。
-- 在 clique 中验证基于 `Exp` 的 dependent type 类型检查器具。
-- 在实现 explicit-substitution 时避免全局的 `globalFreshen`。
-
-cicada 仍旧临时用 JS 实现，坚持 类-JS 语法。
-
-XVM 作为容易实现的可扩展的编译器 target。
-
-cicada 编译到 XVM。
 
 # xvm
 
