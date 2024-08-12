@@ -1,2 +1,1 @@
-需要先验证 explicit-substitution，
-然后才能实现基于 propagator 的类型检查器。
+用 lambda-lisp 项目复习一下 common-lisp
