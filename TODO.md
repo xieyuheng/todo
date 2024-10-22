@@ -2,8 +2,9 @@
 
 2017-arithmetic.pdf
 2012-measurement.pdf
-2023-essentials-of-compilation-racket.pdf
+2009-the-existential-graphs-of-charles-s-peirce--don-d-roberts.djvu
 2006-proof-nets-and-the-identity-of-proofs--straßburger.pdf
+2023-essentials-of-compilation-racket.pdf
 
 # projects to do
 
