@@ -1,6 +1,7 @@
 # projects to do
 
-mimor-api & mimor -- for money
+mimor -- be like kimi
+readonly.link -- be like sourcehut
 inet -- modal like syntax
 xvm -- uxn like vm
 c and actor model -- to implement propagator model
