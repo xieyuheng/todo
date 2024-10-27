@@ -5,7 +5,7 @@ readonly.link -- be like sourcehut
 inet -- modal like syntax
 xvm -- uxn like vm
 c and actor model -- to implement propagator model
-learn pytorch and tinygrad -- do it in js maybe
+learn pytorch and tinygrad -- tinygrad v.s. little learner
 
 # books to enjoy
 
