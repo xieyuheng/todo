@@ -1,6 +1,9 @@
 # projects to do
 
+x-editor -- change domain from editor.fidb.app editor.xieyuheng.com
+mimor -- docs about how to use mimor web component
 mimor -- be like kimi
+mimor -- change domain from mimor.app mimor.xieyuheng.com
 readonly.link -- be like sourcehut
 inet -- modal like syntax
 xvm -- uxn like vm
