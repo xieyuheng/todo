@@ -1,8 +1,8 @@
 # projects to do
 
-readonly.link -- be like sourcehut
-inet -- modal like syntax
 xvm -- uxn like vm
+inet -- modal like syntax
+readonly.link -- be like sourcehut
 c and actor model -- to implement propagator model
 learn pytorch and tinygrad -- tinygrad v.s. little learner
 
