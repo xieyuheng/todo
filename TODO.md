@@ -1,8 +1,5 @@
 # todo stack
 
-learn-x-window-system -> 目的是读 uxn11 代码
-learn-uxn -> 目的是为 渲染 inet
-render inet by programming a canvas like varvara screen
 为了在 inet 中写图灵机的例子，需要能够渲染 inet
 图灵机作为 inet 的例子 -> 读 2008-the-annotated-turing.djvu
 inet -- 实现 combinators and lambda -> 重读 1997-interaction-combinators.pdf
