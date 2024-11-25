@@ -1,14 +1,26 @@
+# todo stack
+
+learn-x-window-system -> 目的是读 uxn11 代码
+learn-uxn -> 目的是为 渲染 inet
+render inet by programming a canvas like varvara screen
+为了在 inet 中写图灵机的例子，需要能够渲染 inet
+图灵机作为 inet 的例子 -> 读 2008-the-annotated-turing.djvu
+inet -- 实现 combinators and lambda -> 重读 1997-interaction-combinators.pdf
+理解 HVM 并且做类似的事 -> 读 projects/others/HigherOrderCO/HVM/paper/HVM2.pdf
+
+# inet
+
+- 可能把 -- 改成 ->
+- -- 作为 line comment
+- `(- ... -)` 作为 inline comment
+
 # core
 
-inet -- 先不考虑实用，完成文档，完成研究
 chemist & chemistry -- 实现 fractran 这个计算模型
 - 沿用 :: > 语法
 - 并且研究一下这个可以如何变成一个实用的程序语言
 - 用 c 写还是用 js 写？可能还是用 c 来练习吧。
 "essentials of compilation" -- 然后学会编译器技术
-xvm -- uxn like vm -- 虚拟机 runtime 技术，和 IO 设备技术
-- we must have our language!
-inet-8bit -- 8-bit version with a vm and an assembler
 mimor-uxn -- like 8-bit game dev
 c and actor model -- to implement propagator model
 learn pytorch and tinygrad -- tinygrad v.s. little learner
