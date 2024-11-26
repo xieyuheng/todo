@@ -3,13 +3,7 @@
 为了在 inet 中写图灵机的例子，需要能够渲染 inet
 图灵机作为 inet 的例子 -> 读 2008-the-annotated-turing.djvu
 inet -- 实现 combinators and lambda -> 重读 1997-interaction-combinators.pdf
-理解 HVM 并且做类似的事 -> 读 projects/others/HigherOrderCO/HVM/paper/HVM2.pdf
-
-# inet
-
-- 可能把 -- 改成 ->
-- -- 作为 line comment
-- `(- ... -)` 作为 inline comment
+理解 HVM -> 读 projects/others/HigherOrderCO/HVM/paper/HVM2.pdf
 
 # core
 
