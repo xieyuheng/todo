@@ -1,3 +1,6 @@
+jiandu -- 中文编辑器
+nicha -- 九章 -- 中文编程语言
+
 # todo stack
 
 为了在 inet 中写图灵机的例子，需要能够渲染 inet
@@ -19,6 +22,7 @@ readonly.link -- be like sourcehut
 
 # books to enjoy
 
+2023-tidy-first -- kent beck!
 2017-arithmetic.pdf -- what is computation
 2012-measurement.pdf
 2009-the-existential-graphs-of-charles-s-peirce--don-d-roberts.djvu
