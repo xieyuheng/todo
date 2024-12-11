@@ -1,5 +1,4 @@
-jiandu -- 中文编辑器
-nicha -- 九章 -- 中文编程语言
+jamdoo -- 简牍 -- 中文编辑器
 
 # todo stack
 
