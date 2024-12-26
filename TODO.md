@@ -1,7 +1,6 @@
 # core
 
 "essentials of compilation" -- 然后学会编译器技术
-c and actor model -- to implement propagator model
 learn pytorch and tinygrad -- tinygrad v.s. little learner
 readonly.link -- be like sourcehut
 
@@ -16,6 +15,6 @@ readonly.link -- be like sourcehut
 
 # projects
 
-cicada-lisp -- 动态类型语言 -- 作为 xvm 的扩展，加上 GC
-heng -- 恒 -- 中文后缀表达式语言应该几乎没有标点
+xactor -- c and actor model -- to implement propagator model
+cicada-lisp -- 动态类型语言 -- 作为 xforth 的扩展，加上 GC
 chemist & chemistry -- 实现 fractran 这个计算模型
