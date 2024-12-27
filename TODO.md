@@ -1,13 +1,16 @@
+# books
+
+1970-programming-a-problem-oriented-language -- xforth
+2023-tidy-first
+
 # core
 
 "essentials of compilation" -- 然后学会编译器技术
 learn pytorch and tinygrad -- tinygrad v.s. little learner
 readonly.link -- be like sourcehut
 
-# books to enjoy
+# books
 
-1970-programming-a-problem-oriented-language -- xforth
-2023-tidy-first
 2017-arithmetic.pdf -- what is computation
 2012-measurement.pdf
 2009-the-existential-graphs-of-charles-s-peirce--don-d-roberts.djvu
