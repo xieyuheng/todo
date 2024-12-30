@@ -1,8 +1,3 @@
-# books
-
-1970-programming-a-problem-oriented-language -- xforth
-2023-tidy-first
-
 # core
 
 "essentials of compilation" -- 然后学会编译器技术
@@ -11,6 +6,7 @@ readonly.link -- be like sourcehut
 
 # books
 
+1970-programming-a-problem-oriented-language -- xforth
 2017-arithmetic.pdf -- what is computation
 2012-measurement.pdf
 2009-the-existential-graphs-of-charles-s-peirce--don-d-roberts.djvu
@@ -19,8 +15,6 @@ readonly.link -- be like sourcehut
 
 # projects
 
-c-like language that always return value by output reference
-- nested struct always by reference
 xactor -- c and actor model -- to implement propagator model
-cicada-lisp -- 动态类型语言 -- 作为 xforth 的扩展，加上 GC
+cicada-lisp -- 动态类型语言 -- 作为 x-forth 的扩展，加上 GC -- 或者有一个 x-lisp
 chemist & chemistry -- 实现 fractran 这个计算模型
