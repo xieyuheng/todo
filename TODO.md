@@ -1,8 +1,8 @@
 # study
 
-1976-data-types-as-lattices
-1989-proofs-and-types.md -- the last chapter about linear logic
+1993-computational-interpretations-of-linear-logic--abramsky.pdf
 1995-from-proof-nets-to-interaction-nets.pdf
+topics/computer-science/interaction-nets/the-optimal-implementation-of-functional-programming-languages--andrea-asperti.pdf
 
 topics/computer-science/interaction-nets/2006-proof-nets-and-the-identity-of-proofs--straßburger.pdf
 projects/others/HigherOrderCO/HVM/paper/HVM2.pdf
@@ -17,7 +17,7 @@ projects/others/HigherOrderCO/HVM/paper/HVM2.pdf
 
 # projects
 
-"essentials of compilation" -- learn about compilation
+"essentials of compilation" -- learn about compilation -- using x-forth
 learn pytorch and tinygrad -- tinygrad v.s. little learner
 readonly.link -- be like sourcehut
 propagator -- a language for propagator model
