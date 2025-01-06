@@ -1,23 +1,3 @@
-复习 propositional logic 和 predicate logic
-
-2014-a-beginner-s-guide-to-mathematical-logic
-2016-a-beginner-s-further-guide-to-mathematical-logic
-
-- 记笔记
-
-  - 从 命题逻辑 => 谓词逻辑 => 简单类型论 => 依赖类型论
-
-    前两个转化我非常熟悉了，第三个转化我还没有很明确，尤其是关于 Equal。
-
-- 这次做很多练习与实验
-
-http://iml.univ-mrs.fr/~lafont/linear/
-http://iml.univ-mrs.fr/~lafont
-
-用 natural deduction 练习证明命题演算中的定理。
-用 sequent calculus 练习证明命题演算中的定理。
-理解 linear logic 到 intuitionistic logic 的翻译。
-
 # study
 
 1995-from-proof-nets-to-interaction-nets.pdf -- 反过来，从 inet 理解其类型系统 -- linear logic。
