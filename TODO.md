@@ -1,6 +1,6 @@
 # study
 
-1995-from-proof-nets-to-interaction-nets.pdf -- 反过来，从 inet 理解其类型系统 -- linear logic。
+1995-from-proof-nets-to-interaction-nets.pdf -- use inet to understand linear logic
 1993-computational-interpretations-of-linear-logic--abramsky.pdf
 topics/computer-science/interaction-nets/the-optimal-implementation-of-functional-programming-languages--andrea-asperti.pdf
 
@@ -20,7 +20,7 @@ projects/others/HigherOrderCO/HVM/paper/HVM2.pdf
 "essentials of compilation" -- learn about compilation -- using x-forth
 learn pytorch and tinygrad -- tinygrad v.s. little learner
 readonly.link -- be like sourcehut
-propagator -- a language for propagator model
+propagator -- a language for propagator model -- to experiment with type checking
 x-actor -- c and actor model -- to implement propagator model
-x-lisp -- dynamic language with GC -- as extension of x-forth
+X-lisp -- dynamic language with GC -- as extension of x-forth
 chemist & chemistry -- fractran rewrite model
