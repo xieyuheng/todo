@@ -1,3 +1,8 @@
+X-lisp -- dynamic language with GC -- where every function is generic
+- define-data -- define data constructor -- use predicate to do modelling instead of types
+actor-lisp -- c and actor model -- to implement real propagator model
+propagator -- a language for propagator model -- to experiment with type checking
+
 # study
 
 1995-from-proof-nets-to-interaction-nets.pdf -- use inet to understand linear logic
@@ -20,7 +25,4 @@ projects/others/HigherOrderCO/HVM/paper/HVM2.pdf
 "essentials of compilation" -- learn about compilation -- using x-forth
 learn pytorch and tinygrad -- tinygrad v.s. little learner
 readonly.link -- be like sourcehut
-propagator -- a language for propagator model -- to experiment with type checking
-x-actor -- c and actor model -- to implement propagator model
-X-lisp -- dynamic language with GC -- as extension of x-forth
 chemist & chemistry -- fractran rewrite model
