@@ -17,4 +17,3 @@ propagator -- a language for propagator model -- to experiment with type checkin
 "essentials of compilation" -- learn about compilation -- using x-forth
 learn pytorch and tinygrad -- tinygrad v.s. little learner
 readonly.link -- be like sourcehut
-
