@@ -1,11 +1,3 @@
-x-lisp -- dynamic language with GC -- where every function is generic
-- define-data -- define data constructor -- use predicate to do modelling instead of types
-
-回顾带有类型系统的 lisp 语法设计
-- cicada-lisp
-- kent-back book notes
-- 重读 eopl
-
 # study
 
 topics/computer-science/interaction-nets/the-optimal-implementation-of-functional-programming-languages--andrea-asperti.pdf
