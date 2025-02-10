@@ -1,14 +1,23 @@
-# 我没有时间
+回顾 cell-complex + cobordism + lisp 的项目 -- 实现几何引擎
 
-如果放假的时间和下班时间不写自己的项目，
-上班的时候就没时间了。
+# study
 
-# 了解自己
+topics/computer-science/interaction-nets/the-optimal-implementation-of-functional-programming-languages--andrea-asperti.pdf
+projects/others/HigherOrderCO/HVM/paper/HVM2.pdf
+[maybe] persons/jean-yves-girard/proof-nets--the-parallel-syntax-for-proof-theory--1995.pdf
 
-快乐 -- 设计程序语言，
-想象各种语法，实现各种计算模型，
-实现各种类型系统并且与逻辑学联系起来，
-是我最大的快乐所在。
+2017-arithmetic.pdf -- what is computation
+2012-measurement.pdf
+2009-the-existential-graphs-of-charles-s-peirce--don-d-roberts.djvu
+2006-proof-nets-and-the-identity-of-proofs--straßburger.pdf
+2023-essentials-of-compilation-racket.pdf
+
+# projects
+
+propagator -- a language for propagator model -- to experiment with type checking
+"essentials of compilation" -- learn about compilation -- using x-forth
+learn pytorch and tinygrad -- tinygrad v.s. little learner
+readonly.link -- be like sourcehut
 
 # category
 
