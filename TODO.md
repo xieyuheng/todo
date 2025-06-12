@@ -1,3 +1,7 @@
+# hott
+
+boundaries-as-types/ as a book in cicada-lisp examples/
+
 # denotational semantics
 
 read 1969-a-type-theoretical-alternative-to-ISWIM-CUCH-OWHY.md
@@ -16,4 +20,6 @@ read 1968-lambda-calculus-models-of-programming-languages--james-hiram-morris.pd
 
 read 1993-subtyping-recursive-types
 study recursion theory -- to understand mu operator
+- https://en.wikipedia.org/wiki/Computability_theory
+- https://plato.stanford.edu/entries/recursive-functions/
 read 2016-algebraic-subtyping--tephen-dolan.pdf
