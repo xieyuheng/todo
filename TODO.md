@@ -5,9 +5,6 @@ boundaries-as-types/ as a book in cicada-lisp examples/
 # denotational semantics
 
 read 1969-a-type-theoretical-alternative-to-ISWIM-CUCH-OWHY.md
-about continuous:
-- https://en.wikipedia.org/wiki/Topology
-- https://plato.stanford.edu/entries/mathematics-constructive/supplement2.html
 
 # hindley-milner type system
 
