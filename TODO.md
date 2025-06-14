@@ -15,6 +15,8 @@ mathematics/topology/1989-topology-via-logic--steven-vickers.djvu
 
 # recursion theory
 
+- cicada-lang/lambda -- equal of recursive defined function mod partial evaluation
+
 study recursion theory -- to understand kleene's mu operator
 
 # algebraic-subtyping
