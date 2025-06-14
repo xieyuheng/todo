@@ -9,10 +9,6 @@ luis-damas -- for HM type system
 
 1989-topology-via-logic--steven-vickers.djvu
 
-# hott
-
-boundaries-as-types/ as a book in cicada-lisp examples/
-
 # structural type
 
 1993-subtyping-recursive-types
