@@ -1,19 +1,26 @@
 # hindley-milner type system
 
 1978-a-theory-of-type-polymorphism-in-programming
-j-roger-hindley -- for HM type system
-luis-damas -- for HM type system
-1968-lambda-calculus-models-of-programming-languages--james-hiram-morris.pdf
-
-# topology and domain theory
-
-1989-topology-via-logic--steven-vickers.djvu
+1982-principal-type-schemes-for-functional-programs
+1985-type-assignment-in-programming-languages--luis-damas
 
 # structural type
 
 1993-subtyping-recursive-types
 
+# hindley-milner type system
+
+j-roger-hindley -- for HM type system
+
+# topology and domain theory
+
+1989-topology-via-logic--steven-vickers.djvu
+
+# recursion theory
+
 study recursion theory -- to understand kleene's mu operator
+
+# algebraic-subtyping
 
 - https://en.wikipedia.org/wiki/mu_operator
 - https://en.wikipedia.org/wiki/Computability_theory
