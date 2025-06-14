@@ -1,7 +1,7 @@
 # hindley-milner type system
 
-1978-a-theory-of-type-polymorphism-in-programming
 1982-principal-type-schemes-for-functional-programs
+1978-a-theory-of-type-polymorphism-in-programming
 1985-type-assignment-in-programming-languages--luis-damas
 
 # structural type
