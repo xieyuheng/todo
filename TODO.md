@@ -1,7 +1,7 @@
 # x-data
 
-xieyuheng/x-data -- to replace cicada-lang/sexp
-use x-data syntax to rewrite cicada-lang/lambda
+cicada-lang/lambda -- re-org our way of writing interpreter
+cicada-lang/lambda -- use x-data -- to replace sexp
 use x-data syntax to practics hindley-milner type system
 use x-data syntax to practics recursive structural type
 
