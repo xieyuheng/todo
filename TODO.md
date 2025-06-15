@@ -1,7 +1,5 @@
 # x-data
 
-cicada-lang/lambda -- re-org our way of writing interpreter
-cicada-lang/lambda -- use x-data -- to replace sexp
 use x-data syntax to practics hindley-milner type system
 use x-data syntax to practics recursive structural type
 
