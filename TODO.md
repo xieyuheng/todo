@@ -1,9 +1,10 @@
 # hindley-milner type system
 
-luis-damas/1982-principal-type-schemes-for-functional-programs
-j-roger-hindley/1969-the-principal-type-scheme-of-an-object-in-combinatory-logic
+https://en.wikipedia.org/wiki/Hindley-Milner_type_system
 robin-milner/1978-a-theory-of-type-polymorphism-in-programming
 luis-damas/1985-type-assignment-in-programming-languages--luis-damas
+j-roger-hindley/1969-the-principal-type-scheme-of-an-object-in-combinatory-logic
+john-alan-robinson/1965-a-machine-oriented-logic-based-on-the-resolution-principle
 
 # structural type
 
