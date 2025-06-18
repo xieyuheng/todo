@@ -1,14 +1,19 @@
-# x-data
+# using x-data
+
+finish x-data.js
+use x-data.js in cicada-lang/lambda.js
 
 use x-data syntax to practics hindley-milner type system
 use x-data syntax to practics recursive structural type
 
 # hindley-milner type system
 
-robin-milner/1978-a-theory-of-type-polymorphism-in-programming
-luis-damas/1985-type-assignment-in-programming-languages--luis-damas
 j-roger-hindley/1969-the-principal-type-scheme-of-an-object-in-combinatory-logic
+luis-damas/1985-type-assignment-in-programming-languages--luis-damas
 john-alan-robinson/1965-a-machine-oriented-logic-based-on-the-resolution-principle
+
+j-roger-hindley/1997-basic-simple-type-theory
+j-roger-hindley/2008-lambda-calculus-and-combinators--an-introduction
 
 # structural type
 
@@ -31,3 +36,9 @@ study recursion theory -- to understand kleene's mu operator
 # algebraic-subtyping
 
 type-theory/2016-algebraic-subtyping--tephen-dolan.pdf
+
+# kan complex
+
+new-arrivals/2011-simplicial-structures-in-topology--davide-l-ferrario--renzo-a-piccinini.pdf
+new-arrivals/2023-an-elementary-illustrated-introduction-to-simplicial-sets--greg-friedman.pdf
+new-arrivals/2023-higher-categories-and-homotopical-algebra--denis-charles-cisinski.pdf
