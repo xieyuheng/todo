@@ -15,6 +15,11 @@ john-alan-robinson/1965-a-machine-oriented-logic-based-on-the-resolution-princip
 j-roger-hindley/1997-basic-simple-type-theory
 j-roger-hindley/2008-lambda-calculus-and-combinators--an-introduction
 
+# robin milner
+
+robin-milner/1979-edinburgh-lcf--a-mechanised-logic-of-computation
+robin-milner/2009-the-space-and-motion-of-communicating-agents
+
 # structural type
 
 luca-cardelli/1993-subtyping-recursive-types
