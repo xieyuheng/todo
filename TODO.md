@@ -1,6 +1,5 @@
 # using x-data
 
-finish x-data.js
 use x-data.js in cicada-lang/lambda.js
 
 use x-data syntax to practics hindley-milner type system
