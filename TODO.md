@@ -17,9 +17,15 @@ j-roger-hindley/2008-lambda-calculus-and-combinators--an-introduction
 
 # combinatory logic
 
+moses-schonfinkel/1924-on-the-building-blocks-of-mathematical-logic
+
 > j-roger-hindley's works are based on combinatory logic
 
+https://en.wikipedia.org/wiki/Moses_Sch%C3%B6nfinkel
+https://en.wikipedia.org/wiki/Combinatory_logic
+https://plato.stanford.edu/entries/logic-combinatory
 https://ncatlab.org/nlab/show/combinatory+logic
+https://combinatorylogic.com/
 
 # robin milner
 
