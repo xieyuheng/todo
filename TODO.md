@@ -15,6 +15,12 @@ john-alan-robinson/1965-a-machine-oriented-logic-based-on-the-resolution-princip
 j-roger-hindley/1997-basic-simple-type-theory
 j-roger-hindley/2008-lambda-calculus-and-combinators--an-introduction
 
+# combinatory logic
+
+> j-roger-hindley's works are based on combinatory logic
+
+https://ncatlab.org/nlab/show/combinatory+logic
+
 # robin milner
 
 robin-milner/1979-edinburgh-lcf--a-mechanised-logic-of-computation
