@@ -1,7 +1,9 @@
-# using x-data
+finish cicada-lang/hindley-milner.js
 
-use x-data syntax to practics hindley-milner type system
-use x-data syntax to practics recursive structural type
+- should it just be called milner.js? -- need to read hindley
+- To practics implementing Hindley-Milner type system.
+
+finish xieyuheng/x-lisp.js -- recursive structural type
 
 # hindley-milner type system
 
