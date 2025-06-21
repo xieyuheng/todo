@@ -1,32 +1,5 @@
 # using x-data
 
-x-data -- matcher combinators
-
-```typescript
-export function matchStmt(data: X.Data): Stmt {
-  return X.matcherChoice([
-    X.matcher("['define (cons name args) exp]", ({ name, args, exp }) =>
-      Stmts.Define(
-        X.dataToString(name),
-        X.dataToArray(args)
-          .map(X.dataToString)
-          .reduceRight((fn, name) => Exps.Fn(name, fn), matchExp(exp)),
-      ),
-    ),
-    X.matcher("['define (cons name args) exp]", ({ name, args, exp }) =>
-      Stmts.Define(
-        X.dataToString(name),
-        X.dataToArray(args)
-          .map(X.dataToString)
-          .reduceRight((fn, name) => Exps.Fn(name, fn), matchExp(exp)),
-      ),
-    ),
-  ])(data)
-}
-```
-
-use x-data.js in cicada-lang/lambda.js
-
 use x-data syntax to practics hindley-milner type system
 use x-data syntax to practics recursive structural type
 
