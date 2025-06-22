@@ -1,11 +1,9 @@
-finish cicada-lang/hindley-milner.js
+# hindley-milner.js
 
-- should it just be called milner.js? -- need to read hindley
-- To practics implementing Hindley-Milner type system.
+haskell-curry/1980-some-philosophical-aspects-of-combinatory-logic.md
+moses-schönfinkel/1924-on-the-building-blocks-of-mathematical-logic.md
 
-finish xieyuheng/x-lisp.js -- recursive structural type
-
-# hindley-milner type system
+## hindley-milner type system
 
 j-roger-hindley/1969-the-principal-type-scheme-of-an-object-in-combinatory-logic
 luis-damas/1985-type-assignment-in-programming-languages--luis-damas
@@ -14,34 +12,28 @@ john-alan-robinson/1965-a-machine-oriented-logic-based-on-the-resolution-princip
 j-roger-hindley/1997-basic-simple-type-theory
 j-roger-hindley/2008-lambda-calculus-and-combinators--an-introduction
 
-# combinatory logic
-
-moses-schonfinkel/1924-on-the-building-blocks-of-mathematical-logic
-
 > j-roger-hindley's works are based on combinatory logic
 
-https://en.wikipedia.org/wiki/Moses_Sch%C3%B6nfinkel
 https://en.wikipedia.org/wiki/Combinatory_logic
 https://plato.stanford.edu/entries/logic-combinatory
 https://ncatlab.org/nlab/show/combinatory+logic
 https://combinatorylogic.com/
 
-# robin milner
+# x-lisp.js
 
-robin-milner/1979-edinburgh-lcf--a-mechanised-logic-of-computation
-robin-milner/2009-the-space-and-motion-of-communicating-agents
+finish xieyuheng/x-lisp.js -- recursive structural type
 
-# structural type
+## structural type
 
 luca-cardelli/1993-subtyping-recursive-types
 
 cicada-lang/lambda -- equal of recursive defined function mod partial evaluation
 
-# topology and domain theory
+## topology and domain theory
 
 mathematics/topology/1989-topology-via-logic--steven-vickers.djvu
 
-# recursion theory
+## recursion theory
 
 study recursion theory -- to understand kleene's mu operator
 
@@ -49,11 +41,19 @@ study recursion theory -- to understand kleene's mu operator
 - https://en.wikipedia.org/wiki/Computability_theory
 - https://plato.stanford.edu/entries/recursive-functions/
 
-# algebraic-subtyping
+## algebraic-subtyping
 
 type-theory/2016-algebraic-subtyping--tephen-dolan.pdf
 
-# kan complex
+# inet and propagator
+
+robin-milner/2009-the-space-and-motion-of-communicating-agents
+
+# cicada
+
+robin-milner/1979-edinburgh-lcf--a-mechanised-logic-of-computation
+
+## kan complex
 
 new-arrivals/2011-simplicial-structures-in-topology--davide-l-ferrario--renzo-a-piccinini.pdf
 new-arrivals/2023-an-elementary-illustrated-introduction-to-simplicial-sets--greg-friedman.pdf
