@@ -1,23 +1,25 @@
 # hindley-milner.js
 
+## combinatory-logic
+
+> j-roger-hindley's works are based on combinatory logic
+
 haskell-curry/1980-some-philosophical-aspects-of-combinatory-logic.md
 moses-schönfinkel/1924-on-the-building-blocks-of-mathematical-logic.md
+
+https://en.wikipedia.org/wiki/Combinatory_logic
+https://plato.stanford.edu/entries/logic-combinatory
+https://ncatlab.org/nlab/show/combinatory+logic
+https://combinatorylogic.com/
+
+j-roger-hindley/1997-basic-simple-type-theory
+j-roger-hindley/2008-lambda-calculus-and-combinators--an-introduction
 
 ## hindley-milner type system
 
 j-roger-hindley/1969-the-principal-type-scheme-of-an-object-in-combinatory-logic
 luis-damas/1985-type-assignment-in-programming-languages--luis-damas
 john-alan-robinson/1965-a-machine-oriented-logic-based-on-the-resolution-principle
-
-j-roger-hindley/1997-basic-simple-type-theory
-j-roger-hindley/2008-lambda-calculus-and-combinators--an-introduction
-
-> j-roger-hindley's works are based on combinatory logic
-
-https://en.wikipedia.org/wiki/Combinatory_logic
-https://plato.stanford.edu/entries/logic-combinatory
-https://ncatlab.org/nlab/show/combinatory+logic
-https://combinatorylogic.com/
 
 # x-lisp.js
 
