@@ -4,16 +4,10 @@
 
 > j-roger-hindley's works are based on combinatory logic
 
-haskell-curry/1980-some-philosophical-aspects-of-combinatory-logic.md
-moses-schönfinkel/1924-on-the-building-blocks-of-mathematical-logic.md
-
-https://en.wikipedia.org/wiki/Combinatory_logic
-https://plato.stanford.edu/entries/logic-combinatory
-https://ncatlab.org/nlab/show/combinatory+logic
-https://combinatorylogic.com/
-
+moses-schönfinkel/1924-on-the-building-blocks-of-mathematical-logic
 j-roger-hindley/1997-basic-simple-type-theory
 j-roger-hindley/2008-lambda-calculus-and-combinators--an-introduction
+haskell-curry/1951-outlines-of-a-formalist-philosophy-of-mathematics -- 为形式主义辩护的论文
 
 ## hindley-milner type system
 
