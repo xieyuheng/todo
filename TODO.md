@@ -1,6 +1,5 @@
 # hindley-milner.js
 
-moses-schönfinkel/1924-on-the-building-blocks-of-mathematical-logic
 j-roger-hindley/1969-the-principal-type-scheme-of-an-object-in-combinatory-logic
 luis-damas/1985-type-assignment-in-programming-languages--luis-damas
 finish xieyuheng/hindley-milner.js
