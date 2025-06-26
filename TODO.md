@@ -7,12 +7,8 @@ john-alan-robinson/1965-a-machine-oriented-logic-based-on-the-resolution-princip
 
 # x-lisp.js
 
-finish xieyuheng/x-lisp.js -- recursive structural type
-
-## structural type
-
 luca-cardelli/1993-subtyping-recursive-types
-
+finish xieyuheng/x-lisp.js -- recursive structural type
 cicada-lang/lambda -- equal of recursive defined function mod partial evaluation
 
 ## topology and domain theory
@@ -26,6 +22,12 @@ mathematics/topology/1989-topology-via-logic--steven-vickers.djvu
 j-roger-hindley/1997-basic-simple-type-theory
 j-roger-hindley/2008-lambda-calculus-and-combinators--an-introduction
 haskell-curry/1951-outlines-of-a-formalist-philosophy-of-mathematics
+
+> dependent type and combinatory logic
+
+maybe dependent type is more easy to develop in combinatory logic.
+
+> the S of combinatory logic is much like the dup of interaction nets
 
 ## recursion theory
 
