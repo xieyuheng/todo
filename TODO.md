@@ -1,13 +1,14 @@
 # hindley-milner.js
 
 luis-damas/1985-type-assignment-in-programming-languages--luis-damas
-finish xieyuheng/hindley-milner.js
+finish cicada-lang/hindley-milner.js -- maybe not
 john-alan-robinson/1965-a-machine-oriented-logic-based-on-the-resolution-principle
 
 # x-lisp.js
 
 luca-cardelli/1993-subtyping-recursive-types
 finish xieyuheng/x-lisp.js -- recursive structural type
+- use the idea of combinators -- by putting env and ctx to the last currying argument position
 cicada-lang/lambda -- equal of recursive defined function mod partial evaluation
 
 ## topology and domain theory
