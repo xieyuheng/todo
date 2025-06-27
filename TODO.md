@@ -1,6 +1,5 @@
 # hindley-milner.js
 
-j-roger-hindley/1969-the-principal-type-scheme-of-an-object-in-combinatory-logic
 luis-damas/1985-type-assignment-in-programming-languages--luis-damas
 finish xieyuheng/hindley-milner.js
 john-alan-robinson/1965-a-machine-oriented-logic-based-on-the-resolution-principle
