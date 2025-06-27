@@ -8,7 +8,8 @@ john-alan-robinson/1965-a-machine-oriented-logic-based-on-the-resolution-princip
 
 luca-cardelli/1993-subtyping-recursive-types
 finish xieyuheng/x-lisp.js -- recursive structural type
-- use the idea of combinators -- by putting env and ctx to the last currying argument position
+- use the idea of combinators -- by putting env and ctx to the last currying argument position.
+- use the idea of propagator model to implement type system.
 cicada-lang/lambda -- equal of recursive defined function mod partial evaluation
 
 ## topology and domain theory
