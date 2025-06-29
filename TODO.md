@@ -1,7 +1,8 @@
 # hindley-milner.js
 
-luis-damas/1985-type-assignment-in-programming-languages--luis-damas
-finish cicada-lang/hindley-milner.js -- maybe not
+steven-vickers/1989-topology-via-logic
+luis-damas/1985-type-assignment-in-programming-languages
+finish cicada-lang/hindley-milner.js -- maybe no need
 john-alan-robinson/1965-a-machine-oriented-logic-based-on-the-resolution-principle
 
 # x-lisp.js
@@ -11,10 +12,6 @@ finish xieyuheng/x-lisp.js -- recursive structural type
 - use the idea of combinators -- by putting env and ctx to the last currying argument position.
 - use the idea of propagator model to implement type system.
 cicada-lang/lambda -- equal of recursive defined function mod partial evaluation
-
-## topology and domain theory
-
-mathematics/topology/1989-topology-via-logic--steven-vickers.djvu
 
 ## combinatory-logic
 
