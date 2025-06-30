@@ -17,9 +17,19 @@ cicada-lang/lambda -- equal of recursive defined function mod partial evaluation
 
 > combinatory logic and dependent type theory
 
+using combinatory logic as the domain of language with dependent type:
+- a type (set) is a predicate-like element
+- only need one judgement `|-`
+- all bound variable can be compiled out: lambda, pi, sigma
+- infinite sum and product can be handled by high order functions:
+  - first argument is a type, second argument is a function
+
 j-roger-hindley/1997-basic-simple-type-theory
 j-roger-hindley/2008-lambda-calculus-and-combinators--an-introduction
 haskell-curry/1951-outlines-of-a-formalist-philosophy-of-mathematics
+haskell-curry/1963-foundations-of-mathematical-logic
+haskell-curry/1956-combinatory-logic--volume-1
+haskell-curry/1970-combinatory-logic--volume-2
 
 > dependent type and combinatory logic
 
