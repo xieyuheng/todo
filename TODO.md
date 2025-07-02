@@ -1,6 +1,17 @@
 # hindley-milner.js
-
+但是 Proposition 3.5.2 Let Ρ be a poset in which every subset has a join. Then every subset has a meet.
+所哟
 steven-vickers/1989-topology-via-logic
+
+[note] about:
+
+total order
+chain
+directed set
+net
+filter
+direct limit
+
 luis-damas/1985-type-assignment-in-programming-languages
 finish cicada-lang/hindley-milner.js -- maybe no need
 john-alan-robinson/1965-a-machine-oriented-logic-based-on-the-resolution-principle
