@@ -1,6 +1,5 @@
 # hindley-milner.js
-但是 Proposition 3.5.2 Let Ρ be a poset in which every subset has a join. Then every subset has a meet.
-所哟
+
 steven-vickers/1989-topology-via-logic
 
 [note] about:
@@ -23,6 +22,8 @@ finish xieyuheng/x-lisp.js -- recursive structural type
 - use the idea of combinators -- by putting env and ctx to the last currying argument position.
 - use the idea of propagator model to implement type system.
 cicada-lang/lambda -- equal of recursive defined function mod partial evaluation
+
+peirce/1880-on-the-algebra-of-logic
 
 ## combinatory-logic
 
