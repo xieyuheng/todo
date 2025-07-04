@@ -1,7 +1,7 @@
 # hindley-milner.js
 
-persons/joseph-e-stoy/1977-denotational-semantics--the-scott-strachey-approach-to-programming-language-theory
 persons/luis-damas/1985-type-assignment-in-programming-languages
+persons/joseph-e-stoy/1977-denotational-semantics--the-scott-strachey-approach-to-programming-language-theory
 persons/john-alan-robinson/1965-a-machine-oriented-logic-based-on-the-resolution-principle
 
 # x-lisp.js
