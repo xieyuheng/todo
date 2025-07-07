@@ -1,6 +1,5 @@
 # hindley-milner.js
 
-persons/luis-damas/1985-type-assignment-in-programming-languages
 persons/joseph-e-stoy/1977-denotational-semantics--the-scott-strachey-approach-to-programming-language-theory
 persons/john-alan-robinson/1965-a-machine-oriented-logic-based-on-the-resolution-principle
 
@@ -10,6 +9,7 @@ persons/luca-cardelli/1993-subtyping-recursive-types
 finish xieyuheng/x-lisp.js -- recursive structural type
 - use the idea of combinators -- by putting env and ctx to the last currying argument position.
 - use the idea of propagator model to implement type system.
+- implement not as type operator, which is needed to view pattern in pattern matching as type.
 cicada-lang/lambda -- equal of recursive defined function mod partial evaluation
 
 ## combinatory-logic
