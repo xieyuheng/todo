@@ -6,7 +6,6 @@ finish xieyuheng/x-lisp.js -- recursive structural type
 - use the idea of propagator model to implement type system.
 - implement not as type operator, which is needed to view pattern in pattern matching as type.
 cicada-lang/lambda -- equal of recursive defined function mod partial evaluation
-persons/joseph-e-stoy/1977-denotational-semantics--the-scott-strachey-approach-to-programming-language-theory
 
 ## combinatory-logic
 
@@ -39,6 +38,10 @@ study recursion theory -- to understand kleene's mu operator
 - https://en.wikipedia.org/wiki/mu_operator
 - https://en.wikipedia.org/wiki/Computability_theory
 - https://plato.stanford.edu/entries/recursive-functions/
+
+## denotational semantics
+
+persons/joseph-e-stoy/1977-denotational-semantics--the-scott-strachey-approach-to-programming-language-theory
 
 ## algebraic-subtyping
 
