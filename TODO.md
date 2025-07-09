@@ -1,11 +1,23 @@
 # x-lisp.js
 
 persons/luca-cardelli/1993-subtyping-recursive-types
-finish xieyuheng/x-lisp.js -- recursive structural type
+xieyuheng/x-lisp.js -- recursive structural type
+- use x-lisp as the denotational semantics of x-lisp, specially for type system
+  - maybe use explicit substitution for runtime semantics
 - use the idea of combinators -- by putting env and ctx to the last currying argument position.
 - use the idea of propagator model to implement type system.
 - implement not as type operator, which is needed to view pattern in pattern matching as type.
 cicada-lang/lambda -- equal of recursive defined function mod partial evaluation
+
+## theorem prover
+
+robin-milner/1979-mathematical-foundations-of-computer-science---proceedings
+robin-milner/1984-the-use-of-machines-to-assist-in-rigorous-proof
+
+robin-milner/1972-logic-for-computable-functions-description-of-a-machine-implementation
+robin-milner/1976-models-of-lcf
+robin-milner/1978-a-metalanguage-for-interactive-proof-in-lcf
+robin-milner/1979-edinburgh-lcf--a-mechanised-logic-of-computation
 
 ## combinatory-logic
 
