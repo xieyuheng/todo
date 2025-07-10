@@ -1,13 +1,28 @@
+reorg george-grätzer
+reorg garrett-birkhoff
+reorg ralph-freese
+
 # x-lisp.js
 
+type system as lattice
+univalent analysis of relation -- wikiepdia page of HM
+computational analysis of formal system
+
 persons/luca-cardelli/1993-subtyping-recursive-types
+
 xieyuheng/x-lisp.js -- recursive structural type
+
 - use x-lisp as the denotational semantics of x-lisp, specially for type system
   - maybe use explicit substitution for runtime semantics
+
+- equal of recursive defined function mod partial evaluation
 - use the idea of combinators -- by putting env and ctx to the last currying argument position.
 - use the idea of propagator model to implement type system.
 - implement not as type operator, which is needed to view pattern in pattern matching as type.
-cicada-lang/lambda -- equal of recursive defined function mod partial evaluation
+
+## random
+
+2008-the-seven-virtues-of-simple-type-theory.pdf
 
 ## theorem prover
 
@@ -42,6 +57,10 @@ persons/haskell-curry/1970-combinatory-logic--volume-2
 maybe dependent type is more easy to develop in combinatory logic.
 
 > the S of combinatory logic is much like the dup of interaction nets
+
+## ordered sets
+
+TODO
 
 ## recursion theory
 
