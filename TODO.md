@@ -10,6 +10,9 @@ computational analysis of formal system
 
 persons/luca-cardelli/1993-subtyping-recursive-types
 
+- when we have type constructors like `list-t`,
+  the way which we form trace point is not as easy as just use `mu`.
+
 xieyuheng/x-lisp.js -- recursive structural type
 
 - use x-lisp as the denotational semantics of x-lisp, specially for type system
