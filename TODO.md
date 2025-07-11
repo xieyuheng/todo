@@ -58,9 +58,12 @@ maybe dependent type is more easy to develop in combinatory logic.
 
 > the S of combinatory logic is much like the dup of interaction nets
 
-## ordered sets
+## foundation of mathematics
 
-TODO
+learn from hilbert
+
+- my understanding of the logic of mathematics is shaped by type theory now,
+  maybe i should learn the other way.
 
 ## recursion theory
 
