@@ -1,6 +1,9 @@
-reorg george-grätzer
 reorg garrett-birkhoff
 reorg ralph-freese
+
+# lattice theory
+
+persons/george-grätzer/1978-general-lattice-theory.md
 
 # x-lisp.js
 
