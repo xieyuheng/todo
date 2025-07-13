@@ -1,17 +1,12 @@
-# lattice theory
-
-persons/george-grätzer/1978-general-lattice-theory.md
-
 # x-lisp.js
-
-type system as lattice
-univalent analysis of relation -- wikiepdia page of HM
-computational analysis of formal system
 
 persons/luca-cardelli/1993-subtyping-recursive-types
 
 - when we have type constructors like `list-t`,
-  the way which we form trace point is not as easy as just use `mu`.
+  the way which we form trail points is not as easy as just use `mu`.
+
+persons/luca-cardelli/1985-on-understanding-types-data-abstraction-and-polymorphism
+persons/luca-cardelli/1989-typeful-programming
 
 xieyuheng/x-lisp.js -- recursive structural type
 
@@ -23,11 +18,23 @@ xieyuheng/x-lisp.js -- recursive structural type
 - use the idea of propagator model to implement type system.
 - implement not as type operator, which is needed to view pattern in pattern matching as type.
 
-## random
+# hindley-milner
+
+univalent analysis of relation -- wikiepdia page of HM
+
+# lattice theory
+
+type system as lattice
+
+persons/george-grätzer/1978-general-lattice-theory.md
+
+computational analysis of formal system -- logic of finite observations
+
+# random
 
 2008-the-seven-virtues-of-simple-type-theory.pdf
 
-## theorem prover
+# theorem prover
 
 robin-milner/1979-mathematical-foundations-of-computer-science---proceedings
 robin-milner/1984-the-use-of-machines-to-assist-in-rigorous-proof
@@ -37,7 +44,7 @@ robin-milner/1976-models-of-lcf
 robin-milner/1978-a-metalanguage-for-interactive-proof-in-lcf
 robin-milner/1979-edinburgh-lcf--a-mechanised-logic-of-computation
 
-## combinatory-logic
+# combinatory-logic
 
 > combinatory logic and dependent type theory
 
@@ -61,14 +68,14 @@ maybe dependent type is more easy to develop in combinatory logic.
 
 > the S of combinatory logic is much like the dup of interaction nets
 
-## foundation of mathematics
+# foundation of mathematics
 
 learn from hilbert
 
 - my understanding of the logic of mathematics is shaped by type theory now,
   maybe i should learn the other way.
 
-## recursion theory
+# recursion theory
 
 study recursion theory -- to understand kleene's mu operator
 
@@ -76,11 +83,11 @@ study recursion theory -- to understand kleene's mu operator
 - https://en.wikipedia.org/wiki/Computability_theory
 - https://plato.stanford.edu/entries/recursive-functions/
 
-## denotational semantics
+# denotational semantics
 
 persons/joseph-e-stoy/1977-denotational-semantics--the-scott-strachey-approach-to-programming-language-theory
 
-## algebraic-subtyping
+# algebraic-subtyping
 
 topics/type-theory/2016-algebraic-subtyping--tephen-dolan.pdf
 
@@ -93,7 +100,7 @@ persons/robin-milner/2009-the-space-and-motion-of-communicating-agents
 persons/robin-milner/1979-edinburgh-lcf--a-mechanised-logic-of-computation
 persons/peirce/1880-on-the-algebra-of-logic -- early denotational semantics for logic
 
-## kan complex
+# kan complex
 
 2011-simplicial-structures-in-topology--davide-l-ferrario--renzo-a-piccinini.pdf
 2023-an-elementary-illustrated-introduction-to-simplicial-sets--greg-friedman.pdf
