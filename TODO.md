@@ -32,6 +32,8 @@ computational analysis of formal system -- logic of finite observations
 
 # random
 
+[DHH: Future of Programming, AI, Ruby on Rails, Productivity & Parenting | Lex Fridman Podcast #474](https://www.youtube.com/watch?v=vagyIcmIGOQ)
+
 2008-the-seven-virtues-of-simple-type-theory.pdf
 
 # theorem prover
