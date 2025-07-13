@@ -1,5 +1,9 @@
 # tree automata
 
+study/topics/computer-science/automata/tree-automata/1992-tree-automata-and-languages.pdf
+study/topics/computer-science/automata/tree-automata/2008-tree-automata-techniques-and-applications.pdf
+study/topics/computer-science/automata/tree-automata/2010-foundations-of-xml-processing--the-tree-automata-approach.pdf
+
 # x-lisp.js
 
 persons/luca-cardelli/1993-subtyping-recursive-types
@@ -35,6 +39,11 @@ computational analysis of formal system -- logic of finite observations
 # random
 
 [DHH: Future of Programming, AI, Ruby on Rails, Productivity & Parenting | Lex Fridman Podcast #474](https://www.youtube.com/watch?v=vagyIcmIGOQ)
+
+persons/david-heinemeier-hansson/2006-getting-real.pdf
+persons/david-heinemeier-hansson/2007-restful-web-services.pdf
+persons/david-heinemeier-hansson/2018-it-doesnt-have-to-be-crazy-at-work.epub
+persons/david-heinemeier-hansson/2018-it-doesnt-have-to-be-crazy-at-work.pdf
 
 2008-the-seven-virtues-of-simple-type-theory.pdf
 
