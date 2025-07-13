@@ -1,7 +1,9 @@
 # tree automata
 
-study/topics/computer-science/automata/tree-automata/1992-tree-automata-and-languages.pdf
 study/topics/computer-science/automata/tree-automata/2008-tree-automata-techniques-and-applications.pdf
+study/topics/computer-science/automata/tree-automata/2015-tree-automata--ferenc-gécseg--magnus-steinby.pdf
+
+study/topics/computer-science/automata/tree-automata/1992-tree-automata-and-languages.pdf
 study/topics/computer-science/automata/tree-automata/2010-foundations-of-xml-processing--the-tree-automata-approach.pdf
 
 # x-lisp.js
