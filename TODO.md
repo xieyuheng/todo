@@ -1,11 +1,3 @@
-# tree automata
-
-study/topics/computer-science/automata/tree-automata/2008-tree-automata-techniques-and-applications.pdf
-study/topics/computer-science/automata/tree-automata/2015-tree-automata--ferenc-gécseg--magnus-steinby.pdf
-
-study/topics/computer-science/automata/tree-automata/1992-tree-automata-and-languages.pdf
-study/topics/computer-science/automata/tree-automata/2010-foundations-of-xml-processing--the-tree-automata-approach.pdf
-
 # x-lisp.js
 
 persons/luca-cardelli/1993-subtyping-recursive-types
@@ -25,6 +17,14 @@ xieyuheng/x-lisp.js -- recursive structural type
 - use the idea of combinators -- by putting env and ctx to the last currying argument position.
 - use the idea of propagator model to implement type system.
 - implement not as type operator, which is needed to view pattern in pattern matching as type.
+
+# tree automata
+
+study/topics/computer-science/automata/tree-automata/2008-tree-automata-techniques-and-applications.pdf
+study/topics/computer-science/automata/tree-automata/2015-tree-automata--ferenc-gécseg--magnus-steinby.pdf
+
+study/topics/computer-science/automata/tree-automata/1992-tree-automata-and-languages.pdf
+study/topics/computer-science/automata/tree-automata/2010-foundations-of-xml-processing--the-tree-automata-approach.pdf
 
 # hindley-milner
 
