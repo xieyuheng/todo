@@ -1,3 +1,7 @@
+# lambda.js
+
+equal of recursive defined function mod partial evaluation
+
 # x-lisp.js
 
 persons/luca-cardelli/1993-subtyping-recursive-types
@@ -13,7 +17,6 @@ xieyuheng/x-lisp.js -- recursive structural type
 - use x-lisp as the denotational semantics of x-lisp, specially for type system
   - maybe use explicit substitution for runtime semantics
 
-- equal of recursive defined function mod partial evaluation
 - use the idea of combinators -- by putting env and ctx to the last currying argument position.
 - use the idea of propagator model to implement type system.
 - implement not as type operator, which is needed to view pattern in pattern matching as type.
