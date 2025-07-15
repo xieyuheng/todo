@@ -1,7 +1,3 @@
-# lambda.js
-
-equal of recursive defined function mod partial evaluation
-
 # x-lisp.js
 
 persons/luca-cardelli/1993-subtyping-recursive-types
