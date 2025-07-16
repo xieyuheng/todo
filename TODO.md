@@ -1,5 +1,3 @@
-add git/hooks/pre-commit-for-nodejs-project to dot-config/git -- for nodejs projects
-
 # x-lisp.js
 
 xieyuheng/x-lisp.js -- recursive structural type
