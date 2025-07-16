@@ -1,3 +1,5 @@
+clean up explicit-subst.js
+
 # x-lisp.js
 
 xieyuheng/x-lisp.js -- recursive structural type
