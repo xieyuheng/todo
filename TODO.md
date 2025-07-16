@@ -1,18 +1,13 @@
-# x-lisp.js
-
-persons/luca-cardelli/1993-subtyping-recursive-types
-
-- when we have type constructors like `list-t`,
-  the way which we form trail points is not as easy as just use `mu`.
-
 persons/luca-cardelli/1985-on-understanding-types-data-abstraction-and-polymorphism
 persons/luca-cardelli/1989-typeful-programming
+persons/luca-cardelli/1997-type-systems
+
+# x-lisp.js
 
 xieyuheng/x-lisp.js -- recursive structural type
 
 - use x-lisp as the denotational semantics of x-lisp, specially for type system
   - maybe use explicit substitution for runtime semantics
-
 - use the idea of combinators -- by putting env and ctx to the last currying argument position.
 - use the idea of propagator model to implement type system.
 - implement not as type operator, which is needed to view pattern in pattern matching as type.
