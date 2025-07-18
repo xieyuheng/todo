@@ -1,4 +1,6 @@
-move non-cicada project to xieyuheng
+# lambda.js
+
+finish lambda.js
 
 # x-lisp.js
 
