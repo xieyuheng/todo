@@ -1,6 +1,10 @@
 # lambda.js
 
-finish lambda.js
+[lambda.js] [utils] org by topic
+[hindley-milner.js] [utils] org by topic
+[explicit-subst.js] [utils] org by topic
+
+xieyuheng/lambda.js -- support equal of value as infinite tree
 
 # x-lisp.js
 
