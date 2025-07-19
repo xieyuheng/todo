@@ -6,11 +6,11 @@ xieyuheng/lambda-lisp.js -- support equal of value as infinite tree
 
 lambda-lisp.js + builtin functions
 
-# x-lisp.js -- rename to lattice-lisp.js
+# lattice-lisp.js
 
-xieyuheng/x-lisp.js -- recursive structural type
+lattice-lisp.js -- recursive structural type
 
-- use x-lisp as the denotational semantics of x-lisp, specially for type system
+- use lattice-lisp as the denotational semantics of lattice-lisp, specially for type system
   - maybe use explicit substitution for runtime semantics
 - use the idea of combinators -- by putting env and ctx to the last currying argument position.
 - use the idea of propagator model to implement type system.
@@ -18,7 +18,7 @@ xieyuheng/x-lisp.js -- recursive structural type
 
 # luca cardelli
 
-luca cardelli's work is very close to my research interests in x-lisp.
+luca cardelli's work is very close to my research interests in lattice-lisp.
 
 persons/luca-cardelli/1985-on-understanding-types-data-abstraction-and-polymorphism
 persons/luca-cardelli/1987-basic-polymorphic-typechecking
