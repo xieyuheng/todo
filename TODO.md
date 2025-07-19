@@ -1,3 +1,8 @@
+# test-runner.js
+
+rename test-runner to test-runner.js
+renew test-runner -- use commander.js and avoid using ty
+
 # lambda-lisp.js
 
 finishing
