@@ -1,6 +1,6 @@
 # lambda-lisp.js
 
-xieyuheng/lambda-lisp.js -- support equal of value as infinite tree
+finishing
 
 # occam-lisp.js
 
@@ -8,7 +8,7 @@ lambda-lisp.js + builtin functions
 
 # lattice-lisp.js
 
-lattice-lisp.js -- recursive structural type
+recursive structural type
 
 - use lattice-lisp as the denotational semantics of lattice-lisp, specially for type system
   - maybe use explicit substitution for runtime semantics
