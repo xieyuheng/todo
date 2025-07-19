@@ -1,12 +1,12 @@
-# lambda.js
+# lambda-lisp.js
 
-[lambda.js] [utils] org by topic
-[hindley-milner.js] [utils] org by topic
-[explicit-subst.js] [utils] org by topic
+xieyuheng/lambda-lisp.js -- support equal of value as infinite tree
 
-xieyuheng/lambda.js -- support equal of value as infinite tree
+# occam-lisp.js
 
-# x-lisp.js
+lambda-lisp.js + builtin functions
+
+# x-lisp.js -- rename to lattice-lisp.js
 
 xieyuheng/x-lisp.js -- recursive structural type
 
