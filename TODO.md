@@ -1,10 +1,16 @@
+# evaluation strategy
+
+persons/henk-barendregt/the-lambda-calculus--its-syntax-and-semantics.pdf
+
 # occam-lisp.js
 
 lambda-lisp.js + builtin functions
 
 # lattice-lisp.js
 
-recursive structural type
+(1) finite structural type
+(2) recursive structural type
+(2) recursive structural type + polymorphism
 
 - use lattice-lisp as the denotational semantics of lattice-lisp, specially for type system
   - maybe use explicit substitution for runtime semantics
