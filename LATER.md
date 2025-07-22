@@ -1,3 +1,23 @@
+# lambda diagrams
+
+it is important to have many ways to imagine lambda calculus.
+
+https://tromp.github.io/cl/diagrams.html
+
+# evaluation strategy
+
+read henk-barendregt again to study evaluation strategy
+
+persons/henk-barendregt/1984-the-lambda-calculus.pdf
+persons/henk-barendregt/2010-lambda-calculus-with-types.pdf
+
+# tree calculus
+
+see if it is related to tree automata
+
+topics/computer-science/tree-calculus/2021-reflective-programs-in-tree-calculus--barry-jay.pdf
+webside: https://treecalcul.us
+
 # tree automata
 
 study/topics/computer-science/automata/tree-automata/2008-tree-automata-techniques-and-applications.pdf
