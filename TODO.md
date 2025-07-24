@@ -1,6 +1,6 @@
 # lattice-lisp.js
 
-fail faster
+fail faster -- try the simple but maybe wrong solution first
 
 (1) finite structural type
 (2) recursive structural type
