@@ -1,10 +1,17 @@
-persons/david-macqueen/1984-an-ideal-model-for-recursive-polymorphic-types.md
+# x-data.js
 
-- how to view type is ideal of domain
+> be more complete!
+
+test by parsing tau
+test with span
 
 # lattice-lisp.js
 
-fail faster -- try the simple but maybe wrong solution first
+> fail faster -- try the simple but maybe wrong solution first!
+
+persons/david-macqueen/1984-an-ideal-model-for-recursive-polymorphic-types.md
+
+- how to view type is ideal of domain
 
 (1) finite structural type
 (2) recursive structural type
