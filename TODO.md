@@ -29,7 +29,10 @@ persons/luca-cardelli/1996-a-theory-of-objects
 
 # occam-lisp.js
 
-lambda-lisp.js + builtin functions
+untyped language -- lambda-lisp.js + builtin functions
+
+learn from racket contract
+learn from  clojure spec
 
 # hindley-milner
 
