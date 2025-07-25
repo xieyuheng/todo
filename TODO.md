@@ -1,3 +1,7 @@
+persons/david-macqueen/1984-an-ideal-model-for-recursive-polymorphic-types.md
+
+- how to view type is ideal of domain
+
 # lattice-lisp.js
 
 fail faster -- try the simple but maybe wrong solution first
