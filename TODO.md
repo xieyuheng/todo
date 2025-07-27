@@ -1,10 +1,3 @@
-# x-data.js
-
-> be more complete!
-
-test by parsing tau
-test with span
-
 # lattice-lisp.js
 
 > fail faster -- try the simple but maybe wrong solution first!
