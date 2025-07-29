@@ -45,16 +45,6 @@ persons/david-heinemeier-hansson/2018-it-doesnt-have-to-be-crazy-at-work.pdf
 
 2008-the-seven-virtues-of-simple-type-theory.pdf
 
-# theorem prover
-
-robin-milner/1979-mathematical-foundations-of-computer-science---proceedings
-robin-milner/1984-the-use-of-machines-to-assist-in-rigorous-proof
-
-robin-milner/1972-logic-for-computable-functions-description-of-a-machine-implementation
-robin-milner/1976-models-of-lcf
-robin-milner/1978-a-metalanguage-for-interactive-proof-in-lcf
-robin-milner/1979-edinburgh-lcf--a-mechanised-logic-of-computation
-
 # combinatory-logic
 
 > combinatory logic and dependent type theory
@@ -108,7 +98,6 @@ persons/robin-milner/2009-the-space-and-motion-of-communicating-agents
 
 # cicada
 
-persons/robin-milner/1979-edinburgh-lcf--a-mechanised-logic-of-computation
 persons/peirce/1880-on-the-algebra-of-logic -- early denotational semantics for logic
 
 # kan complex

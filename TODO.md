@@ -1,6 +1,16 @@
 # meta-lisp.js
 
-read papers about LCF
+> read papers about LCF
+
+persons/robin-milner/1979-mathematical-foundations-of-computer-science---proceedings
+persons/robin-milner/1984-the-use-of-machines-to-assist-in-rigorous-proof
+
+persons/robin-milner/1972-logic-for-computable-functions-description-of-a-machine-implementation
+persons/robin-milner/1976-models-of-lcf
+persons/robin-milner/1978-a-metalanguage-for-interactive-proof-in-lcf
+persons/robin-milner/1979-edinburgh-lcf--a-mechanised-logic-of-computation
+persons/robin-milner/1979-edinburgh-lcf--a-mechanised-logic-of-computation
+
 setup project and copy code from lattice-lisp.js
 
 # luca cardelli
