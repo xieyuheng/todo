@@ -1,4 +1,10 @@
+# occam-lisp.js
+
+> untyped language where there is nothing blocking us.
+
 # meta-lisp.js
+
+> this is where we can test luca's idea of subtype of recursive types.
 
 > read papers about LCF
 
@@ -9,11 +15,9 @@ persons/robin-milner/1978-a-metalanguage-for-interactive-proof-in-lcf
 persons/robin-milner/1979-edinburgh-lcf--a-mechanised-logic-of-computation
 persons/robin-milner/1979-edinburgh-lcf--a-mechanised-logic-of-computation
 
-setup project and copy code from lattice-lisp.js
-
 # luca cardelli
 
-luca cardelli's work is very close to my research interests in lattice-lisp.
+> luca cardelli's work is very close to my research interests in meta-lisp.
 
 persons/luca-cardelli/1985-on-understanding-types-data-abstraction-and-polymorphism
 persons/luca-cardelli/1987-basic-polymorphic-typechecking
@@ -25,13 +29,6 @@ persons/luca-cardelli/1996-a-theory-of-objects
 persons/david-macqueen/1984-an-ideal-model-for-recursive-polymorphic-types.md
 
 - how to view type is ideal of domain
-
-# occam-lisp.js
-
-untyped language -- lambda-lisp.js + builtin functions
-
-learn from racket contract
-learn from clojure spec
 
 # hindley-milner
 
