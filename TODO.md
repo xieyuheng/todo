@@ -33,3 +33,8 @@ persons/david-macqueen/1984-an-ideal-model-for-recursive-polymorphic-types.md
 # hindley-milner
 
 univalent analysis of relation -- wikiepdia page of HM
+
+# lazy evaluation and dan
+
+https://en.wikipedia.org/wiki/Lazy_evaluation
+https://en.wikipedia.org/wiki/Daniel_P._Friedman
