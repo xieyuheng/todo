@@ -1,7 +1,3 @@
-# razor
-
-implement a forth with x86 calling conventions
-
 # eoc
 
 diary about the structure of a compiler
