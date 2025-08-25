@@ -1,3 +1,13 @@
+# occam-lisp
+
+learn API design from fp library in js
+
+- https://ramdajs.com/docs
+- https://lodash.com
+- https://underscorejs.org/docs/underscore-esm.html
+
+learn API design from clojure
+
 # meta-lisp.js
 
 > this is where we can test luca's idea of subtype of recursive types.
